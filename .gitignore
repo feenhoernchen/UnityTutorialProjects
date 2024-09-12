@@ -51,6 +51,7 @@
 *.opendb
 *.VC.db
 .vsconfig
+.editorconfig
 
 # Unity3D generated meta files
 *.pidb.meta
